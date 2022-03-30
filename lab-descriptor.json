@@ -1,0 +1,80 @@
+{
+    "broadArea": {
+        "name": "Electrical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    },
+    "lab": "Virtual Programmable Logic Controller Lab",
+    "lab_display_name": "Programmable Logic Controller",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "coep",
+    "baseUrl": "plc-coep.vlabs.ac.in",
+    "introduction": "Programmable Logic Controller (PLC) is a technology to implement automation projects. In many industries, PLC-based automation is sought-after technology. The students who are interested in making their career in automation must know ladder programming through this simulator students will be able to practice their own various instructions used in ladder programming.",
+    "experiments": [
+    {
+      "name": "Study hardware and software used in PLC",
+      "short-name": "hardware-software-plc",
+      "repo": "https://github.com/virtual-labs/exp-hardware-software-plc-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Logic Gates",
+      "short-name": "implementation-logic-gates",
+      "repo": "https://github.com/virtual-labs/exp-implementation-logic-gates-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of DOL Starter",
+      "short-name": "dol-starter",
+      "repo": "https://github.com/virtual-labs/exp-dol-starter-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of On-Delay Timer",
+      "short-name": "on-delay-timer",
+      "repo": "https://github.com/virtual-labs/exp-on-delay-timer-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of Off-Delay Timer",
+      "short-name": "off-delay-timer",
+      "repo": "https://github.com/virtual-labs/exp-off-delay-timer-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of Up-Down Counter",
+      "short-name": "up-down-counter",
+      "repo": "https://github.com/virtual-labs/exp-up-down-counter-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of PLC Arithmatic Instructions",
+      "short-name": "plc-arithmatic-instructions",
+      "repo": "https://github.com/virtual-labs/exp-plc-arithmatic-instructions-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation Of PID Controller",
+      "short-name": "pid-controller",
+      "repo": "https://github.com/virtual-labs/exp-pid-controller-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    }    
+    ],
+    "targetAudience": {
+        "UG": ["Undergraduate students of Instrumentation and Control Engineering, Mechatronics Engineering, Electrical Engineering, Mechanical Engineering branches."],
+        "PG": ["Post-graduate students of Process Instrumentation, Mechatronics, Production Engineering."]
+    },
+    "objective": "Identify the requirements of automation in a process plant</br></br>Develop various control schema using ladder programming.</br></br>Design complex ladders using advanced blocks</br></br>Troubleshoot the program implemented for a plant using a ladder diagram.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India",
+        "universities": ["Pune University","Indian Institute of Technology Bombay","Indian Institute of Technology Delhi","BMS College of Engineering, Bangalore","Institute has an Instrumentation and control department"]
+    }
+}
