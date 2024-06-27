@@ -1,13 +1,14 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Virtual Programmable Logic Controller Lab",
   "lab_display_name": "Programmable Logic Controller",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "plc-coep.vlabs.ac.in",
   "introduction": "Programmable Logic Controller (PLC) is a technology to implement automation projects. In many industries, PLC-based automation is sought-after technology. The students who are interested in making their career in automation must know ladder programming through this simulator students will be able to practice their own various instructions used in ladder programming.",
   "experiments": [
@@ -86,8 +87,5 @@
       "BMS College of Engineering, Bangalore",
       "Institute has an Instrumentation and control department"
     ]
-  },
-  "exp_name": "Implementation Of PID Controller",
-  "exp_short_name": "pid-controller",
-  "version": "v0.1.0"
+  }
 }
